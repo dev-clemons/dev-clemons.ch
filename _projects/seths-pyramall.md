@@ -2,6 +2,7 @@
 layout: page
 title: Seth's PyraMall
 description: A game built in a 6-person team, awarded by Studio Gobo.
+img: assets/img/pyramall-cover.png
 importance: 2
 ---
 
