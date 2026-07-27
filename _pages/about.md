@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Clemens. I'm a doctoral student at ETH Zürich, focused on Computer Vision & Human-Computer Interaction.
+Hi there 👋 my name is Clemens and i am a:
 
-Alongside research, I like doing stuff on the internet — programming, designing, and writing articles. Check out my [CV](/cv/), [projects](/projects/), [publications](/publications/), and [blog](/blog/).
+- Software Developer 👨‍💻
+- Computer Science Teacher 👨‍🏫
+- Doctoral Student 🎓
