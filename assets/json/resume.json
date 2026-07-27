@@ -3,7 +3,7 @@
     "name": "Clemens Bachmann",
     "label": "Doctoral Student",
     "image": "prof_pic.png",
-    "email": "clemens.bachmann@email.com",
+    "email": "clemens.bachmann@inf.ethz.ch.com",
     "summary": "Doctoral student at ETH Zürich, focused on Computer Vision & Human-Computer Interaction. Background in software engineering, teaching, and recruiting.",
     "location": {
       "address": "",
@@ -34,7 +34,7 @@
       "position": "Application Developer",
       "location": "Zürich, Switzerland",
       "startDate": "2023-06-01",
-      "endDate": "",
+      "endDate": "2025-05-01",
       "summary": ""
     },
     {
@@ -85,7 +85,7 @@
       "area": "Teachers Diploma",
       "studyType": "Teachers Diploma",
       "startDate": "2024-02-01",
-      "endDate": "2026-01-01"
+      "endDate": ""
     },
     {
       "institution": "ETH Zürich",
