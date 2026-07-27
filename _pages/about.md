@@ -30,3 +30,5 @@ Hi there 👋 my name is Clemens and i am a:
 - Software Developer 👨‍💻
 - Computer Science Teacher 👨‍🏫
 - Doctoral Student 🎓
+
+Check out my [CV](/cv/), [projects](/projects/), [publications](/publications/), and [blog](/blog/).
