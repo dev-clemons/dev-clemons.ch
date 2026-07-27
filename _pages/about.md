@@ -25,12 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Hi there 👋**
-
-* Software Developer 👨‍💻
-* Computer Science Teacher 👨‍🏫
-* Doctoral Student 🎓
-
-I'm Clemens, a doctoral student at ETH Zürich focused on Computer Vision & Human-Computer Interaction, and maintainer of [WebTigerPython](https://webtigerpython.ethz.ch).
+Hi, I'm Clemens. I'm a doctoral student at ETH Zürich, focused on Computer Vision & Human-Computer Interaction.
 
 Alongside research, I like doing stuff on the internet — programming, designing, and writing articles. Check out my [CV](/cv/), [projects](/projects/), [publications](/publications/), and [blog](/blog/).
