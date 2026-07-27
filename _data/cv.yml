@@ -22,9 +22,10 @@ cv:
       - institution: ETH Zürich
         location: Zürich, Switzerland
         url: https://ethz.ch/
-        area: Teachers Diploma
-        studyType: Teachers Diploma
-        start_date: 2024-02
+        area: Computer Science
+        studyType: Didactics Diploma for High Schools
+        start_date: 2023
+        end_date:
         highlights:
 
       - institution: ETH Zürich
@@ -33,7 +34,7 @@ cv:
         area: Computer Science
         studyType: Master's degree
         start_date: 2021
-        end_date: 2023
+        end_date: 2024
         highlights:
 
       - institution: ETH Zürich
@@ -44,7 +45,16 @@ cv:
         start_date: 2015
         end_date: 2020
         highlights:
-          - Bachelor's thesis at the Sensing, Interaction & Perception Lab (SIPLAB)
+          - "Bachelor's thesis at the Sensing, Interaction & Perception Lab (SIPLAB): History Manipulation Techniques in a Pen-Optimized User Interface"
+
+      - institution: ETH Zürich
+        location: Zürich, Switzerland
+        url: https://ethz.ch/
+        area: Civil Engineering (Basisjahr)
+        studyType: Bachelor's degree (discontinued)
+        start_date: 2013
+        end_date: 2014
+        highlights:
 
     Experience:
       - company: ETH Zürich
@@ -56,49 +66,101 @@ cv:
         highlights:
 
       - company: ETH Zürich
-        position: Application Developer
+        position: Software Development (Web Development Frontend)
         location: Zürich, Switzerland
-        start_date: 2023-06
-        end_date:
+        start_date: 2023
+        end_date: 2025
         summary:
         highlights:
 
       - company: Kantonsschule Zürcher Unterland
-        position: Computer Science Lecturer
-        location: Uster, Zürich, Switzerland
-        start_date: 2023-08
-        end_date: 2024-08
+        position: High School Teacher, Computer Science
+        location: Zürich, Switzerland
+        start_date: 2023
+        end_date: 2024
         summary:
         highlights:
 
       - company: Berufswahlschule Uster
-        position: Classroom & Student Support
+        position: Teaching Assistance
         location: Uster, Zürich, Switzerland
-        start_date: 2022-06
-        end_date: 2022-07
+        start_date: 2022
+        end_date: 2022
         summary:
         highlights:
 
-      - company: Federal Office of Meteorology and Climatology MeteoSwiss
-        position: Warning Development & Verification
-        location: Kloten, Zürich, Switzerland
-        start_date: 2020-09
-        end_date: 2021-01
+      - company: MeteoSwiss
+        position: Software Developer (Python) — Warning Development & Verification
+        location: Switzerland
+        start_date: 2020
+        end_date: 2021
         summary:
         highlights:
 
-      - company: Zühlke Group
+      - company: Zühlke Engineering AG
         position: Campus Scout
-        location: Schlieren, Switzerland
-        start_date: 2018-09
-        end_date: 2019-08
+        location: Switzerland
+        start_date: 2018
+        end_date: 2019
         summary:
         highlights:
 
       - company: ETH Zürich
         position: Teaching Assistant
         location: Zürich, Switzerland
-        start_date: 2017-09
-        end_date: 2017-12
-        summary: In the course "Informatik 1" I taught 20 civil engineers how to solve beginner to intermediate level computer science exercises.
+        start_date: 2017
+        end_date: 2017
+        summary: In the course "Informatik 1" I taught civil, environmental, and geomatic engineers how to solve beginner to intermediate level computer science exercises.
         highlights:
+
+      - company: ACS Partner AG
+        position: Internship, Civil Engineering
+        location: Switzerland
+        start_date: 2015
+        end_date: 2015
+        summary:
+        highlights:
+
+      - company: Spitäler Schaffhausen
+        position: Civil Service — Surgical Positioning Attendant
+        location: Schaffhausen, Switzerland
+        start_date: 2014
+        end_date: 2015
+        summary:
+        highlights:
+
+    Engagement:
+      - label: "Vice-President, TigerJython Group (since 2025)"
+        details: ""
+      - label: "Editorial Staff, VISIONEN — ETH Computer Science Students' Magazine (2018–2024)"
+        details: ""
+      - label: "President, Kontaktparty Committee — VIS (2021–2022)"
+        details: "Organized the largest Swiss academic recruiting fair, with over 100 companies and 600+ participants."
+      - label: "Board Member, VSETH GECo — Gaming and Entertainment Committee (2018–2019)"
+        details: "Co-organized Polylan ZH, a 5-day LAN party with 350 attendees; organized smaller community events; represented GECo at the VSETH Delegates Council."
+      - label: "Chairman, Design Committee — VIS (2018–2019)"
+        details: "Handled design-related tasks and allocated work to committee members."
+      - label: "Member, Party and Culture Committee — VIS (2017–2018)"
+        details: "Organized multiple events for computer science students with up to 300 attendees."
+      - label: "Member, Kontaktparty Committee — VIS (2017–2019)"
+        details: "Co-organized the largest Swiss academic IT recruiting fair; organized accompanying events such as talks, CV-checks, and mock interviews; laid out the fair guide."
+      - label: "Scout Leader, Pfadi Gryfenberg (2009–2019)"
+        details: "Organized activities and camps for children aged 6–10; served as contact person for parents; trained new scout leaders."
+
+    Skills:
+      - name: Programming Languages
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python, Java, TypeScript"
+      - name: Frameworks
+        level: ""
+        icon: fa-solid fa-diagram-project
+        keywords: "Vue.js, React"
+
+    Languages:
+      - name: German
+        summary: Native
+      - name: English
+        summary: Advanced
+      - name: French
+        summary: Intermediate
