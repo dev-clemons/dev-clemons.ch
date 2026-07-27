@@ -6,7 +6,7 @@ subtitle: Doctoral Student, ETH Zürich
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.svg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Illustration by <a href="https://www.instagram.com/anna.staub.illustration/" target="_blank" rel="noopener">Anna Staub</a></p>

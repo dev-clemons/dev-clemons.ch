@@ -3,7 +3,7 @@ cv:
   label: Doctoral Student
   email: clemens.bachmann@inf.ethz.ch
   location: Zürich, Switzerland
-  image: prof_pic.png
+  image: prof_pic.svg
   summary: Doctoral student at ETH Zürich, focused on Computer Vision & Human-Computer Interaction. Background in software engineering, teaching, and recruiting.
 
   social_networks:
