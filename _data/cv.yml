@@ -149,11 +149,9 @@ cv:
 
     Skills:
       - name: Programming Languages
-        level: ""
         icon: fa-solid fa-code
         keywords: "Python, Java, TypeScript"
       - name: Frameworks
-        level: ""
         icon: fa-solid fa-diagram-project
         keywords: "Vue.js, React"
 
