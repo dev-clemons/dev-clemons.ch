@@ -12,7 +12,20 @@ A browser-based Python IDE for education, supporting everything from Turtle grap
 Try it live: [webtigerpython.ethz.ch](https://webtigerpython.ethz.ch)
 
 <iframe
+  id="wtp-iframe"
   src="https://webtigerpython.ethz.ch"
   allow="usb;clipboard-write"
   style="height: 500px; width: 100%; border: 0; border-radius: 8px;"
 ></iframe>
+
+<script>
+document.getElementById('wtp-iframe').addEventListener('load', function () {
+  this.contentWindow.postMessage({
+    type: 'files',
+    data: [{
+      name: 'main.py',
+      data: "import turtle\nt = turtle.Turtle()\nt.speed(0)\nfor i in range(60):\n    t.forward(150)\n    t.right(122)\n"
+    }]
+  }, '*');
+});
+</script>
