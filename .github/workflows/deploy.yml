@@ -58,7 +58,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   deploy:
@@ -101,8 +101,13 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Deploy 🚀
+      - name: Deploy to Infomaniak via FTP 🚀
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
-          folder: _site
+          server: h2park-8d750cc5.infomaniak.ch
+          username: yx8ox5_auto_deploy
+          password: ${{ secrets.INFOMANIAK_FTP_PASSWORD }}
+          protocol: ftp
+          local-dir: ./_site/
+          server-dir: ./
