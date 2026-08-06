@@ -16,7 +16,7 @@ footer_text: >
   <a href="https://github.com/dev-clemons/dev-clemons.github.io" target="_blank">Source code</a>.
 keywords: computer vision, human-computer interaction, HCI, ETH Zürich, research, programming # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧑‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://dev-clemons.ch # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
