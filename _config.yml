@@ -9,12 +9,12 @@ last_name: Bachmann
 contact_note: >
   Reach out via email or GitHub.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal site of Clemens Bachmann — doctoral student at ETH Zürich, working on Computer Vision & Human-Computer Interaction.
+  Personal site of Clemens Bachmann — doctoral student at ETH Zürich, working on Computer Science Education (Didactics).
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  <a href="https://github.com/dev-clemons/dev-clemons.github.io" target="_blank">Source code</a>.
-keywords: computer vision, human-computer interaction, HCI, ETH Zürich, research, programming # add your own keywords or leave empty
+  Hosted by <a href="https://www.infomaniak.com/" target="_blank">Infomaniak</a>.
+  <a href="https://github.com/dev-clemons/dev-clemons.ch" target="_blank">Source code</a>.
+keywords: computer science education, didactics, human-computer interaction, HCI, ETH Zürich, research, teaching, programming # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
