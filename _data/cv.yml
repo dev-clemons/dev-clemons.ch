@@ -4,18 +4,11 @@ cv:
   email: clemens.bachmann@inf.ethz.ch
   location: Zürich, Switzerland
   image: prof_pic.svg
-  summary: Doctoral student at ETH Zürich, focused on Computer Science Education (Didactics). Background in software engineering, teaching, and recruiting.
+  summary: Doctoral student in Computer Science Education at ETH Zürich. Background in software development and high school teaching.
 
   social_networks:
     - network: GitHub
       username: dev-clemons
-
-  address:
-    street:
-    city: Winterthur
-    region: Zürich
-    postalCode: 8406
-    countryCode: CH
 
   sections:
     Education:
@@ -23,7 +16,7 @@ cv:
         location: Zürich, Switzerland
         url: https://ethz.ch/
         area: Computer Science
-        studyType: Didactics Diploma for High Schools
+        studyType: Teaching Diploma in Computer Science (Upper Secondary)
         start_date: 2023
         end_date:
         highlights:
@@ -50,7 +43,7 @@ cv:
       - institution: ETH Zürich
         location: Zürich, Switzerland
         url: https://ethz.ch/
-        area: Civil Engineering (Basisjahr)
+        area: Civil Engineering, first year
         studyType: Bachelor's degree (discontinued)
         start_date: 2013
         end_date: 2014
@@ -66,7 +59,7 @@ cv:
         highlights:
 
       - company: ETH Zürich
-        position: Software Development (Web Development Frontend)
+        position: Frontend Developer, WebTigerPython
         location: Zürich, Switzerland
         start_date: 2023
         end_date: 2025
@@ -82,7 +75,7 @@ cv:
         highlights:
 
       - company: Berufswahlschule Uster
-        position: Teaching Assistance
+        position: Teaching Assistant
         location: Uster, Zürich, Switzerland
         start_date: 2022
         end_date: 2022
@@ -90,7 +83,7 @@ cv:
         highlights:
 
       - company: MeteoSwiss
-        position: Software Developer (Python) — Warning Development & Verification
+        position: Software Developer (Python), Weather Warnings
         location: Switzerland
         start_date: 2020
         end_date: 2021
@@ -134,16 +127,14 @@ cv:
         details: ""
       - label: "Editorial Staff, VISIONEN — ETH Computer Science Students' Magazine (2018–2024)"
         details: ""
-      - label: "President, Kontaktparty Committee — VIS (2021–2022)"
-        details: "Organized the largest Swiss academic recruiting fair, with over 100 companies and 600+ participants."
+      - label: "Member (2017–2019) and President (2021–2022), Kontaktparty Committee — VIS"
+        details: "Organized the largest Swiss academic IT recruiting fair, with over 100 companies and 600+ participants; organized accompanying events such as talks, CV-checks, and mock interviews; laid out the fair guide."
       - label: "Board Member, VSETH GECo — Gaming and Entertainment Committee (2018–2019)"
         details: "Co-organized Polylan ZH, a 5-day LAN party with 350 attendees; organized smaller community events; represented GECo at the VSETH Delegates Council."
-      - label: "Chairman, Design Committee — VIS (2018–2019)"
+      - label: "Head of Design Committee — VIS (2018–2019)"
         details: "Handled design-related tasks and allocated work to committee members."
       - label: "Member, Party and Culture Committee — VIS (2017–2018)"
         details: "Organized multiple events for computer science students with up to 300 attendees."
-      - label: "Member, Kontaktparty Committee — VIS (2017–2019)"
-        details: "Co-organized the largest Swiss academic IT recruiting fair; organized accompanying events such as talks, CV-checks, and mock interviews; laid out the fair guide."
       - label: "Scout Leader, Pfadi Gryfenberg (2009–2019)"
         details: "Organized activities and camps for children aged 6–10; served as contact person for parents; trained new scout leaders."
 
